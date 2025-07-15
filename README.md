@@ -37,6 +37,39 @@ Welcome to my Power BI analytics portfolio! This repository showcases various da
 
 ---
 
+### 🏥 PROJECT 2: Hospital Emergency Room Analysis Dashboard
+![Hospital Emergency Room Analysis Dashboard](./images/project2_dashboard1.png)
+**Overview:** Comprehensive Hospital Emergency Room Analysis Dashboard designed to enhance operational efficiency and provide actionable insights into emergency room performance. Enables stakeholders to track, analyze, and make data-driven decisions regarding patient management and service optimization.
+
+**Key Features:**
+- Complete 11-step development process from requirement gathering to insights generation
+- Three specialized dashboard pages (Monthly View, Consolidated View, Patient Details)
+- Real-time KPI monitoring and trend analysis
+- Advanced DAX calculations for time intelligence and patient classification
+- Interactive visualizations with drill-down capabilities
+
+**Technologies Used:** Power BI Desktop, DAX, Power Query, Calendar Tables, Star Schema
+
+**Dataset:** Hospital ER_Data.csv (Patient admissions, demographics, wait times, satisfaction scores)
+
+**Key Insights:**
+- Patient flow optimization through admission status tracking
+- Age group and demographic analysis for resource planning
+- Department referral patterns and wait time optimization
+- Time-based analysis for staffing decisions
+- Patient satisfaction correlation with operational metrics
+
+**Skills Demonstrated:**
+- **Data Modeling:** Star schema architecture and relationship management
+- **Time Intelligence:** Calendar table creation and time-based calculations
+- **Advanced DAX:** Complex measures, calculated columns, and SWITCH functions
+- **Dashboard Design:** Multi-page responsive layouts with navigation
+- **Business Intelligence:** KPI development and performance tracking
+
+📂 **[➡️ Go to Project 2](./PROJECT%202/)**
+
+---
+
 ## 📞 Contact
 
 For questions, collaboration opportunities, or to discuss these projects, feel free to connect:
