@@ -70,6 +70,39 @@ Welcome to my Power BI analytics portfolio! This repository showcases various da
 
 ---
 
+### 🏥 PROJECT 3: Healthcare Waitlist Analysis Dashboard
+![Healthcare Waitlist Dashboard](./images/project3_dashboard_preview.png)
+**Overview:** Comprehensive Healthcare Waitlist Analysis Dashboard that combines inpatient and outpatient datasets to provide actionable insights into patient waiting times across different specialties and demographics. Features dynamic visualizations and interactive analytics for healthcare management optimization.
+
+**Key Features:**
+- Data integration combining inpatient and outpatient datasets
+- Dynamic calculation switching between Average and Median methods
+- Interactive dashboard with specialty, demographic, and time-based filtering
+- Advanced DAX measures for flexible analytical capabilities
+- Real-time KPI monitoring and year-over-year comparison functionality
+
+**Technologies Used:** Power BI Desktop, DAX, Power Query, Data Modeling, Star Schema
+
+**Dataset:** Combined healthcare datasets (Inpatient/Outpatient) with specialty mapping and demographic segmentation
+
+**Key Insights:**
+- Real-time patient waitlist volume tracking across specialties
+- Year-over-year performance comparison and trend analysis
+- Specialty-specific performance identification and benchmarking
+- Age-based demographic patterns in waitlist distribution
+- Time band analysis for waiting time optimization
+
+**Skills Demonstrated:**
+- **Data Integration:** Combining multiple healthcare datasets with advanced append operations
+- **Advanced DAX:** Complex measures with dynamic switching logic and time intelligence
+- **Healthcare Analytics:** Domain-specific KPI development and performance tracking
+- **Interactive Design:** User-friendly dashboard with dynamic calculation methods
+- **Performance Optimization:** Efficient data modeling and star schema implementation
+
+📂 **[➡️ Go to Project 3](./PROJECT%203/)**
+
+---
+
 ## 📞 Contact
 
 For questions, collaboration opportunities, or to discuss these projects, feel free to connect:
